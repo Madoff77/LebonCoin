@@ -32,7 +32,7 @@ NPM ou Yarn
 MongoDB installé localement ou MongoDB Atlas
 1. Cloner le Projet
 
-git clone https://github.com/votre-utilisateur/votre-projet.git
+git clone https://github.com/Madoff77/Leboncoin.git
 
 2. Installation des Dépendances
 Backend
