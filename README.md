@@ -84,18 +84,3 @@ Connectez-vous pour accéder aux fonctionnalités (ajout, modification, suppress
 
 Gérez vos annonces via une interface simple et intuitive.
 
-Structure du Projet
-
-projet-leboncoin/
-├── backend/
-│   ├── models/       # Modèles Mongoose (User, Ad)
-│   ├── routes/       # Routes (authRoutes, adRoutes)
-│   ├── server.js     # Point d'entrée du backend
-│   └── .env          # Variables d'environnement
-├── frontend/
-│   ├── src/
-│   │   ├── pages/    # Pages (Login, Register, Ads, AdDetails)
-│   │   ├── api.js    # Configuration Axios
-│   │   ├── App.js    # Routes principales
-│   │   └── index.js  # Point d'entrée du frontend
-├── README.md         # Documentation du projet
